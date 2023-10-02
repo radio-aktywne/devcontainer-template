@@ -15,10 +15,9 @@ Devcontainer for templates 🧶
 
 ## 💡 About
 
-Treat this `README.md` as the landing page for people
-that want to **use** your project.
-
-Write here whatever you want to tell them.
+This repository contains a [`devcontainer`](https://containers.dev)
+tailored for developing templates in
+[`radio-aktywne`](https://github.com/radio-aktywne).
 
 ## 📄 Further Reading
 
