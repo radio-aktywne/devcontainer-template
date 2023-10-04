@@ -15,7 +15,7 @@ Devcontainer for templates 🧶
 
 ## 💡 About
 
-This repository contains a [`devcontainer`](https://containers.dev)
+This repository contains a [`Dev Container`](https://containers.dev)
 tailored for developing templates in
 [`radio-aktywne`](https://github.com/radio-aktywne).
 
